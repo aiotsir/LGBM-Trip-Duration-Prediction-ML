@@ -3,6 +3,7 @@
 # Taxi Trip Duration Prediction
 ## Project Description
 The goal of this project is to develop accurate and robust predictive models for estimating taxi trip durations. This has real-world applications in the taxi and transportation industry.
+The model was deployed into a Web App - https://github.com/aiotsir/Trip-Duration-Estimator-Web-App
 ## Problem Statement
 Given a dataset of taxi trip records, including information such as pickup date and time, geographical coordinates (longitude and latitude) of the pickup and dropoff locations, the number of passengers, and other attributes, the task is to develop a regression model that can accurately predict the duration of a taxi trip in seconds. The model should be trained on a labeled dataset containing historical trip records (the training set) and then applied to a separate dataset of unlabeled trip records (the testing set) to estimate the trip durations.
 ## Dataset Description
